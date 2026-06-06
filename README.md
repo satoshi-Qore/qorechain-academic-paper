@@ -29,6 +29,7 @@ Work in Progress
 
 ## Author
 
-Murat Colakdemirci
+Satoshi-Qore
+
 
 Community Contributor | Research Author
