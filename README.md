@@ -4,7 +4,6 @@
 ![Research](https://img.shields.io/badge/type-academic%20research-green)
 ![Blockchain](https://img.shields.io/badge/focus-blockchain-orange)
 
-# QoreChain Academic Research Paper
 
 ## Overview
 
