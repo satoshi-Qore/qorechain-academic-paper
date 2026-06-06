@@ -1,5 +1,7 @@
 # QoreChain Academic Research Paper
 
+QoreChain Academic Research Paper explores the intersection of post-quantum cryptography, AI-native blockchain infrastructure, and multi-VM execution environments within next-generation decentralized systems.
+
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-blue)
 ![Research](https://img.shields.io/badge/type-academic%20research-green)
 ![Blockchain](https://img.shields.io/badge/focus-blockchain-orange)
