@@ -37,3 +37,21 @@ Blockchain networks are unique in that assets may remain secured by the same cry
 ### 2.5 QoreChain's Strategic Positioning
 
 QoreChain places significant emphasis on post-quantum readiness as part of its broader architectural vision. By recognizing the potential impact of quantum computing on decentralized systems, the project positions itself within a growing category of blockchain initiatives seeking to address next-generation security challenges before they become immediate industry concerns.
+
+## References
+
+[1] S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System," 2008.
+
+[2] National Institute of Standards and Technology (NIST), "Post-Quantum Cryptography Standardization Project."
+
+[3] P. W. Shor, "Algorithms for Quantum Computation: Discrete Logarithms and Factoring," Proceedings of the 35th Annual Symposium on Foundations of Computer Science, 1994.
+
+[4] V. Buterin, "Ethereum Whitepaper," 2014.
+
+[5] Gavin Wood, "Polkadot: Vision for a Heterogeneous Multi-Chain Framework," 2020.
+
+[6] QoreChain Documentation and Technical Materials.
+
+[7] NIST, "FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard (ML-KEM)," 2024.
+
+[8] NIST, "FIPS 204: Module-Lattice-Based Digital Signature Standard (ML-DSA)," 2024.
