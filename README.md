@@ -1,5 +1,11 @@
 # QoreChain Academic Research Paper
 
+![Status](https://img.shields.io/badge/status-work%20in%20progress-blue)
+![Research](https://img.shields.io/badge/type-academic%20research-green)
+![Blockchain](https://img.shields.io/badge/focus-blockchain-orange)
+
+# QoreChain Academic Research Paper
+
 ## Overview
 
 This repository contains an ongoing academic research project focused on the technological foundations, architecture, and long-term implications of QoreChain.
