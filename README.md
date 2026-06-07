@@ -60,7 +60,8 @@ Current main paper structure:
 6. Chapter 5: Tokenomics Analysis
 7. Chapter 6: Ecosystem Analysis
 8. Chapter 7: Comparative Analysis
-9. References
+9. Chapter 8: Preliminary Conclusion and Future Work
+10. References
 
 ## Research Status Tracking
 
@@ -74,7 +75,7 @@ Current main paper structure:
 | Tokenomics Analysis | Drafted | Added to the main academic paper; requires empirical data after mainnet maturity |
 | Ecosystem Analysis | Drafted | Added to the main academic paper; future evaluation should use public ecosystem metrics |
 | Comparative Analysis | Drafted | Added to the main academic paper; benchmark methodology can be expanded later |
-| Conclusion | Planned | To be revised after additional evidence collection |
+| Preliminary Conclusion and Future Work | Preliminary draft | Included as a non-final closing section; should be revised as evidence grows |
 | References | In progress | Placeholder references included |
 
 ## Project Roadmap
