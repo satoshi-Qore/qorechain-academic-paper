@@ -58,7 +58,8 @@ Current main paper structure:
 4. Chapter 3: AI-Native Infrastructure
 5. Chapter 4: Multi-VM Architecture
 6. Chapter 5: Tokenomics Analysis
-7. References
+7. Chapter 6: Ecosystem Analysis
+8. References
 
 ## Research Status Tracking
 
@@ -70,7 +71,7 @@ Current main paper structure:
 | AI-Native Infrastructure | Drafted | Added to the main academic paper |
 | Multi-VM Architecture | Drafted | Added to the main academic paper |
 | Tokenomics Analysis | Drafted | Added to the main academic paper; requires empirical data after mainnet maturity |
-| Ecosystem Analysis | Planned | To be added as a future main paper chapter |
+| Ecosystem Analysis | Drafted | Added to the main academic paper; future evaluation should use public ecosystem metrics |
 | Comparative Analysis | Planned | Needs structured benchmark methodology |
 | Conclusion | Planned | To be revised after additional evidence collection |
 | References | In progress | Placeholder references included |
