@@ -35,6 +35,7 @@ qorechain-academic-paper/
 |-- paper/
 |   |-- QoreChain_Academic_Paper.md
 |   |-- methodology.md
+|   |-- threat-model.md
 |   `-- qorechain-research-paper.md
 |
 `-- references/
@@ -48,9 +49,10 @@ The main research draft is available at:
 
 - [paper/QoreChain_Academic_Paper.md](./paper/QoreChain_Academic_Paper.md)
 
-Supporting methodology notes are available at:
+Supporting research notes are available at:
 
 - [paper/methodology.md](./paper/methodology.md)
+- [paper/threat-model.md](./paper/threat-model.md)
 
 An expanded structural draft is also available at:
 
@@ -80,6 +82,7 @@ Current main paper structure:
 | Abstract | Drafted | Requires future refinement after full literature review |
 | Introduction | Drafted | Establishes research context and motivation |
 | Research Methodology | Supporting draft | Added as a separate methodology note for evidence levels, source categories, and future empirical indicators |
+| Threat Model | Supporting draft | Added preliminary threat categories for cryptography, AI-native infrastructure, multi-VM execution, interoperability, incentives, and governance |
 | Post-Quantum Cryptography | Drafted | Included in the main academic paper |
 | AI-Native Infrastructure | Drafted | Added to the main academic paper |
 | Multi-VM Architecture | Drafted | Added to the main academic paper |
