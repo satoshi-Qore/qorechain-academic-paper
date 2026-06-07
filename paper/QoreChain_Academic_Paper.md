@@ -260,9 +260,9 @@ Comparing emerging networks with mature networks creates methodological limitati
 
 For this reason, QoreChain should be compared through a staged methodology. The first stage can evaluate published architecture and documentation. The second stage can examine testnet and community activity. The third stage should use mainnet data, audits, governance records, infrastructure metrics, and application deployment patterns. This staged approach helps avoid premature conclusions while preserving the value of comparative research.
 
-## 8. Conclusion
+## 8. Preliminary Conclusion and Future Work
 
-This paper examined QoreChain as an emerging blockchain research subject positioned around post-quantum cryptography, AI-native infrastructure, multi-VM architecture, tokenomics, ecosystem development, and comparative blockchain design. The analysis suggests that QoreChain is best understood not only as a technical protocol proposal, but as a case study in how newer blockchain projects attempt to respond to future security, automation, and interoperability challenges.
+This preliminary section examines QoreChain as an emerging blockchain research subject positioned around post-quantum cryptography, AI-native infrastructure, multi-VM architecture, tokenomics, ecosystem development, and comparative blockchain design. The analysis should be understood as an early-stage framework rather than a final assessment. Because mainnet deployment and long-term operational data remain essential for evaluation, many observations in this paper should be revisited as further evidence becomes available.
 
 ### 8.1 Summary of Findings
 
@@ -292,7 +292,7 @@ Future versions of this research should expand the literature review, add formal
 
 The paper may also be developed toward an IEEE-style structure with a formal methodology section, related work review, comparative tables, threat model discussion, and evidence-based evaluation criteria. Such revisions would improve academic rigor and make the repository more suitable for long-term publication preparation.
 
-### 8.5 Final Remarks
+### 8.5 Research Outlook
 
 QoreChain presents a useful subject for studying how emerging blockchain networks may adapt to future technological conditions. Its stated focus on post-quantum security, AI-native infrastructure, and multi-VM architecture connects several important research themes in decentralized systems. The long-term significance of this approach will depend on implementation quality, transparent documentation, ecosystem participation, governance maturity, and measurable network performance.
 
