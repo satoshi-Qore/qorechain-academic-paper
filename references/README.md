@@ -2,34 +2,43 @@
 
 This directory tracks reference sources for the QoreChain academic research paper.
 
-The repository uses placeholder citations in the working draft. Future revisions should replace placeholders with complete bibliographic entries, ideally in a consistent IEEE-style format.
+The repository now separates reference management into two layers:
+
+- [bibliography.md](./bibliography.md) contains structured academic references and a citation use map.
+- This README explains how references should be evaluated, categorized, and maintained.
 
 ## Reference Categories
 
 | Category | Purpose | Status |
 |---|---|---|
-| Post-quantum cryptography standards | Support cryptographic background and terminology | Pending expansion |
-| QoreChain official documentation | Provide primary-source technical context | Pending verification |
-| Blockchain architecture literature | Support Layer 1 and execution-environment analysis | Pending expansion |
-| Multi-VM and interoperability research | Support comparative architecture analysis | Pending expansion |
-| Tokenomics and governance literature | Support economic and governance analysis | Pending expansion |
-| Network and validator research | Support infrastructure and incentive analysis | Pending expansion |
+| Post-quantum cryptography standards | Support cryptographic background and terminology | Initial references added |
+| QoreChain official documentation | Provide primary-source technical context | Initial references added |
+| Blockchain architecture literature | Support Layer 1 and execution-environment analysis | Initial references added |
+| Multi-VM and interoperability research | Support comparative architecture analysis | Initial references added |
+| Tokenomics and governance literature | Support economic and governance analysis | Needs expansion |
+| Network and validator research | Support infrastructure and incentive analysis | Needs expansion |
 
-## Placeholder Citation Map
+## Current Citation Map
 
-- `[1]` NIST post-quantum cryptography standardization materials
-- `[2]` Multi-VM architecture and interoperability research
-- `[3]` QoreChain tokenomics documentation and future on-chain economic data
-- `[4]` QoreChain technical documentation, whitepaper, or protocol architecture references
-- `[5]` Blockchain governance, validator incentives, and ecosystem development literature
+| Citation Area | Primary Sources |
+|---|---|
+| ML-KEM and post-quantum key encapsulation | NIST FIPS 203 |
+| ML-DSA and post-quantum signatures | NIST FIPS 204 |
+| Quantum threat model | Shor's quantum algorithm paper and NIST PQC materials |
+| Blockchain foundations | Bitcoin whitepaper and Ethereum whitepaper |
+| Interoperability and multi-chain systems | Cosmos, IBC, and Polkadot materials |
+| QoreChain-specific architecture | QoreChain repositories, website, and public technical materials |
+| Community ecosystem evidence | QoreChain Guides, Tools, and Notes repositories |
 
-## Future Work
+## Source Quality Levels
 
-- Add complete bibliographic entries.
-- Separate primary sources from independent academic sources.
-- Track access dates for online materials.
-- Add BibTeX entries if the project moves toward LaTeX or IEEE-style formatting.
-- Add a source quality note for each major reference.
+| Level | Description | Example |
+|---|---|---|
+| Primary standard | Official standards body publication | NIST FIPS 203, NIST FIPS 204 |
+| Primary project source | Official project documentation or repository | QoreChain official repositories |
+| Foundational paper | Widely cited original technical paper | Bitcoin whitepaper, Ethereum whitepaper |
+| Supporting architecture source | Related protocol or ecosystem documentation | Cosmos IBC, Polkadot whitepaper |
+| Community evidence | Community-maintained documentation or contribution records | Satoshi-Qore community repositories |
 
 ## Citation Guidance
 
@@ -41,3 +50,12 @@ When adding sources, prefer:
 - Clearly labeled community observations for ecosystem notes
 
 Avoid unsupported claims and avoid using marketing material as the only source for technical conclusions.
+
+## Future Work
+
+- Add complete access dates for online materials.
+- Add BibTeX entries if the project moves toward LaTeX or IEEE-style formatting.
+- Add peer-reviewed tokenomics and governance sources.
+- Add validator incentive and infrastructure reliability literature.
+- Link individual paper sections to specific bibliography entries.
+- Separate pre-mainnet observations from post-mainnet empirical evidence once public network data becomes available.
