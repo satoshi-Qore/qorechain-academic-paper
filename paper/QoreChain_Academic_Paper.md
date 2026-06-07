@@ -117,6 +117,50 @@ Several questions remain important for future evaluation:
 
 These questions should be revisited as more technical documentation, implementation details, and network data become available.
 
+## 5. Tokenomics Analysis
+
+Tokenomics refers to the economic structure of a blockchain network, including token supply, distribution, utility, incentives, governance participation, fee mechanisms, and long-term sustainability. In academic analysis, tokenomics should not be treated as a simple valuation narrative. Instead, it should be examined as a system of incentives that shapes participant behavior, network security, application development, and ecosystem resilience.
+
+### 5.1 Token Utility and Network Function
+
+A blockchain token may serve multiple functions within a network. These functions can include transaction fee payment, staking, governance participation, validator incentives, delegation, ecosystem grants, application-level usage, and access to specialized services. The strength of a token economy depends not only on the number of proposed utilities, but also on whether those utilities produce recurring demand and align with real network activity.
+
+For QoreChain, QOR can be studied as the core economic unit of the ecosystem. Future analysis should examine how QOR is used across transaction processing, staking or delegation, validator participation, light node activity, governance, and potential AI-native infrastructure services. These areas should be evaluated using official documentation and observable network data as they become available.
+
+### 5.2 Incentive Alignment
+
+Effective tokenomics requires alignment between different participant groups. Users, developers, validators, light node operators, governance participants, and ecosystem contributors may each respond to different incentives. If rewards are too short-term, the network may attract temporary activity without long-term commitment. If incentives are too restrictive, participation may become concentrated among a small group of technically or financially advantaged actors.
+
+A research-oriented evaluation of QoreChain should consider whether its incentive model encourages sustainable participation. This includes examining validator economics, delegation accessibility, light node tasks, community contribution systems, and any mechanisms designed to reward useful ecosystem activity. Quest-based point systems may support early participation, but they should be distinguished from confirmed long-term token reward mechanics.
+
+### 5.3 Validator, Delegation, and Light Node Participation
+
+Validators typically provide consensus security and network reliability, while delegators may support validators through staked tokens. Light node operators may contribute to accessibility, verification, monitoring, or ecosystem participation depending on the technical design of the network. Each role requires a clear incentive structure to remain sustainable.
+
+In QoreChain's case, validator and light node participation should be evaluated through several questions: what technical requirements exist, what uptime or performance standards apply, how commissions or rewards are calculated, and how participation is verified. Until complete mainnet data and official reward mechanics are available, these topics should be treated as areas for future empirical validation rather than fixed conclusions.
+
+### 5.4 Governance and Economic Sustainability
+
+Governance incentives are also part of tokenomics. A network may use token-based voting, proposal deposits, staking requirements, or other mechanisms to coordinate decision-making. These structures can help align participants, but they may also introduce risks such as low voter participation, concentration of voting power, or short-term decision incentives.
+
+Economic sustainability depends on whether a network can maintain security, infrastructure participation, developer activity, and user demand over time. For QoreChain, future research should examine how governance participation, staking incentives, fee flows, ecosystem funds, and token distribution interact. This analysis should remain evidence-based and should separate official projections from observed activity after deployment.
+
+### 5.5 Risk Factors and Research Questions
+
+Tokenomics analysis should include potential risks. Common risks include excessive supply concentration, unclear vesting schedules, unsustainable reward emissions, weak fee demand, limited governance participation, and incentive programs that produce temporary activity rather than durable ecosystem growth.
+
+Future research on QoreChain tokenomics should address the following questions:
+
+- What are the confirmed supply, distribution, and vesting parameters?
+- How is QOR utility connected to real network usage?
+- What incentives exist for validators, delegators, light node operators, and developers?
+- How are quest-based points distinguished from token rewards or commissions?
+- What mechanisms support long-term economic sustainability?
+- How does governance participation affect token demand and network decision-making?
+- What on-chain data should be monitored after mainnet deployment?
+
+These questions can guide later revisions of this paper once official documentation, mainnet metrics, governance activity, and reward distribution data are available.
+
 ## References
 
 [1] S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System," 2008.
