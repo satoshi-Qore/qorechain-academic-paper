@@ -59,7 +59,8 @@ Current main paper structure:
 5. Chapter 4: Multi-VM Architecture
 6. Chapter 5: Tokenomics Analysis
 7. Chapter 6: Ecosystem Analysis
-8. References
+8. Chapter 7: Comparative Analysis
+9. References
 
 ## Research Status Tracking
 
@@ -72,7 +73,7 @@ Current main paper structure:
 | Multi-VM Architecture | Drafted | Added to the main academic paper |
 | Tokenomics Analysis | Drafted | Added to the main academic paper; requires empirical data after mainnet maturity |
 | Ecosystem Analysis | Drafted | Added to the main academic paper; future evaluation should use public ecosystem metrics |
-| Comparative Analysis | Planned | Needs structured benchmark methodology |
+| Comparative Analysis | Drafted | Added to the main academic paper; benchmark methodology can be expanded later |
 | Conclusion | Planned | To be revised after additional evidence collection |
 | References | In progress | Placeholder references included |
 
