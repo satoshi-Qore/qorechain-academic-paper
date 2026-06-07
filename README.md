@@ -33,6 +33,7 @@ qorechain-academic-paper/
 |-- LICENSE
 |
 |-- paper/
+|   |-- QoreChain_Academic_Paper.md
 |   `-- qorechain-research-paper.md
 |
 `-- references/
@@ -43,9 +44,13 @@ qorechain-academic-paper/
 
 The main research draft is available at:
 
+- [paper/QoreChain_Academic_Paper.md](./paper/QoreChain_Academic_Paper.md)
+
+An expanded structural draft is also available at:
+
 - [paper/qorechain-research-paper.md](./paper/qorechain-research-paper.md)
 
-Current paper structure:
+Current main paper structure:
 
 1. Abstract
 2. Introduction
@@ -53,10 +58,7 @@ Current paper structure:
 4. Chapter 3: AI-Native Infrastructure
 5. Chapter 4: Multi-VM Architecture
 6. Chapter 5: Tokenomics Analysis
-7. Chapter 6: Ecosystem Analysis
-8. Chapter 7: Comparative Analysis
-9. Chapter 8: Conclusion
-10. References
+7. References
 
 ## Research Status Tracking
 
@@ -64,13 +66,13 @@ Current paper structure:
 |---|---|---|
 | Abstract | Drafted | Requires future refinement after full literature review |
 | Introduction | Drafted | Establishes research context and motivation |
-| Post-Quantum Cryptography | Drafted | Requires more formal citation expansion |
-| AI-Native Infrastructure | Drafted | Conceptual analysis stage |
-| Multi-VM Architecture | Drafted | Comparative framing required |
-| Tokenomics Analysis | Drafted | Requires empirical data after mainnet maturity |
-| Ecosystem Analysis | Drafted | Community and governance observations pending |
-| Comparative Analysis | Drafted | Needs structured benchmark methodology |
-| Conclusion | Drafted | To be revised after additional evidence collection |
+| Post-Quantum Cryptography | Drafted | Included in the main academic paper |
+| AI-Native Infrastructure | Drafted | Added to the main academic paper |
+| Multi-VM Architecture | Drafted | Added to the main academic paper |
+| Tokenomics Analysis | Drafted | Added to the main academic paper; requires empirical data after mainnet maturity |
+| Ecosystem Analysis | Planned | To be added as a future main paper chapter |
+| Comparative Analysis | Planned | Needs structured benchmark methodology |
+| Conclusion | Planned | To be revised after additional evidence collection |
 | References | In progress | Placeholder references included |
 
 ## Project Roadmap
