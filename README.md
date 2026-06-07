@@ -37,7 +37,8 @@ qorechain-academic-paper/
 |   `-- qorechain-research-paper.md
 |
 `-- references/
-    `-- README.md
+    |-- README.md
+    `-- bibliography.md
 ```
 
 ## Main Paper
@@ -49,6 +50,10 @@ The main research draft is available at:
 An expanded structural draft is also available at:
 
 - [paper/qorechain-research-paper.md](./paper/qorechain-research-paper.md)
+
+Reference tracking is available at:
+
+- [references/bibliography.md](./references/bibliography.md)
 
 Current main paper structure:
 
@@ -76,7 +81,7 @@ Current main paper structure:
 | Ecosystem Analysis | Drafted | Added to the main academic paper; future evaluation should use public ecosystem metrics |
 | Comparative Analysis | Drafted | Added to the main academic paper; benchmark methodology can be expanded later |
 | Preliminary Conclusion and Future Work | Preliminary draft | Included as a non-final closing section; should be revised as evidence grows |
-| References | In progress | Placeholder references included |
+| References | Expanded | Structured bibliography and citation use map added |
 
 ## Project Roadmap
 
