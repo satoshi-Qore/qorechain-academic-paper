@@ -68,30 +68,32 @@ Current main paper structure:
 
 1. Abstract
 2. Introduction
-3. Chapter 2: Post-Quantum Cryptography
-4. Chapter 3: AI-Native Infrastructure
-5. Chapter 4: Multi-VM Architecture
-6. Chapter 5: Tokenomics Analysis
-7. Chapter 6: Ecosystem Analysis
-8. Chapter 7: Comparative Analysis
-9. Chapter 8: Preliminary Conclusion and Future Work
-10. References
+3. Scope and methodological position
+4. Chapter 2: Post-Quantum Cryptography
+5. Chapter 3: AI-Native Infrastructure
+6. Chapter 4: Multi-VM Architecture
+7. Chapter 5: Tokenomics Analysis
+8. Chapter 6: Ecosystem Analysis
+9. Chapter 7: Comparative Analysis
+10. Chapter 8: Preliminary Conclusion and Future Work
+11. References
 
 ## Research Status Tracking
 
 | Area | Status | Notes |
 |---|---|---|
-| Abstract | Drafted | Requires future refinement after full literature review |
-| Introduction | Drafted | Establishes research context and motivation |
-| Research Methodology | Supporting draft | Added as a separate methodology note for evidence levels, source categories, and future empirical indicators |
+| Abstract | Refined draft | Updated for evidence-aware academic framing |
+| Introduction | Refined draft | Establishes research context, motivation, and evaluation scope |
+| Scope and Methodological Position | Drafted | Added to the main paper to clarify evidence levels and research boundaries |
+| Research Methodology | Supporting draft | Separate methodology note for source categories, evidence levels, and future empirical indicators |
 | Threat Model | Supporting draft | Added preliminary threat categories for cryptography, AI-native infrastructure, multi-VM execution, interoperability, incentives, and governance |
 | Evaluation Matrix | Supporting draft | Added evaluation criteria, evidence levels, comparative dimensions, and future data collection plan |
-| Post-Quantum Cryptography | Drafted | Included in the main academic paper |
-| AI-Native Infrastructure | Drafted | Added to the main academic paper |
-| Multi-VM Architecture | Drafted | Added to the main academic paper |
-| Tokenomics Analysis | Drafted | Added to the main academic paper; requires empirical data after mainnet maturity |
-| Ecosystem Analysis | Drafted | Added to the main academic paper; future evaluation should use public ecosystem metrics |
-| Comparative Analysis | Drafted | Added to the main academic paper; benchmark methodology can be expanded later |
+| Post-Quantum Cryptography | Refined draft | Strengthened with standards-aware and migration-focused framing |
+| AI-Native Infrastructure | Refined draft | Wording adjusted toward auditability, transparency, and governance safeguards |
+| Multi-VM Architecture | Refined draft | Maintains trade-off based treatment of execution flexibility and security boundaries |
+| Tokenomics Analysis | Drafted | Requires empirical data after mainnet maturity |
+| Ecosystem Analysis | Drafted | Future evaluation should use public ecosystem metrics |
+| Comparative Analysis | Refined draft | Keeps comparison staged and non-promotional |
 | Preliminary Conclusion and Future Work | Preliminary draft | Included as a non-final closing section; should be revised as evidence grows |
 | References | Expanded | Structured bibliography and citation use map added |
 
