@@ -34,6 +34,7 @@ qorechain-academic-paper/
 |
 |-- paper/
 |   |-- QoreChain_Academic_Paper.md
+|   |-- chapter-4-citation-map.md
 |   |-- evaluation-matrix.md
 |   |-- methodology.md
 |   |-- threat-model.md
@@ -55,6 +56,7 @@ Supporting research notes are available at:
 - [paper/methodology.md](./paper/methodology.md)
 - [paper/threat-model.md](./paper/threat-model.md)
 - [paper/evaluation-matrix.md](./paper/evaluation-matrix.md)
+- [paper/chapter-4-citation-map.md](./paper/chapter-4-citation-map.md)
 
 An expanded structural draft is also available at:
 
@@ -88,6 +90,7 @@ Current main paper structure:
 | Research Methodology | Supporting draft | Separate methodology note for source categories, evidence levels, and future empirical indicators |
 | Threat Model | Supporting draft | Added preliminary threat categories for cryptography, AI-native infrastructure, multi-VM execution, interoperability, incentives, and governance |
 | Evaluation Matrix | Supporting draft | Added evaluation criteria, evidence levels, comparative dimensions, and future data collection plan |
+| Chapter 4 Citation Map | Supporting draft | Maps Chapter 4 claims to EVM, CosmWasm, Solana/SVM, interoperability, security, and validation sources |
 | Post-Quantum Cryptography | Refined draft | Strengthened with standards-aware and migration-focused framing |
 | AI-Native Infrastructure | Refined draft | Wording adjusted toward auditability, transparency, and governance safeguards |
 | Multi-VM Architecture | Expanded draft | Reworked as a research-oriented technical analysis covering Triple-VM design, comparative tables, security implications, performance considerations, and evidence gaps |
