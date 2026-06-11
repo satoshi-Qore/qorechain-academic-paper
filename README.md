@@ -71,7 +71,7 @@ Current main paper structure:
 3. Scope and methodological position
 4. Chapter 2: Post-Quantum Cryptography
 5. Chapter 3: AI-Native Infrastructure
-6. Chapter 4: Multi-VM Architecture
+6. Chapter 4: Multi-VM Architecture and Cross-Environment Execution
 7. Chapter 5: Tokenomics Analysis
 8. Chapter 6: Ecosystem Analysis
 9. Chapter 7: Comparative Analysis
@@ -90,7 +90,7 @@ Current main paper structure:
 | Evaluation Matrix | Supporting draft | Added evaluation criteria, evidence levels, comparative dimensions, and future data collection plan |
 | Post-Quantum Cryptography | Refined draft | Strengthened with standards-aware and migration-focused framing |
 | AI-Native Infrastructure | Refined draft | Wording adjusted toward auditability, transparency, and governance safeguards |
-| Multi-VM Architecture | Refined draft | Maintains trade-off based treatment of execution flexibility and security boundaries |
+| Multi-VM Architecture | Expanded draft | Reworked as a research-oriented technical analysis covering Triple-VM design, comparative tables, security implications, performance considerations, and evidence gaps |
 | Tokenomics Analysis | Drafted | Requires empirical data after mainnet maturity |
 | Ecosystem Analysis | Drafted | Future evaluation should use public ecosystem metrics |
 | Comparative Analysis | Refined draft | Keeps comparison staged and non-promotional |
