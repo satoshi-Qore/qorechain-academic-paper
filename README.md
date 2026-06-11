@@ -35,6 +35,7 @@ qorechain-academic-paper/
 |-- paper/
 |   |-- QoreChain_Academic_Paper.md
 |   |-- chapter-4-citation-map.md
+|   |-- chapter-5-tokenomics-research-map.md
 |   |-- evaluation-matrix.md
 |   |-- methodology.md
 |   |-- threat-model.md
@@ -57,6 +58,7 @@ Supporting research notes are available at:
 - [paper/threat-model.md](./paper/threat-model.md)
 - [paper/evaluation-matrix.md](./paper/evaluation-matrix.md)
 - [paper/chapter-4-citation-map.md](./paper/chapter-4-citation-map.md)
+- [paper/chapter-5-tokenomics-research-map.md](./paper/chapter-5-tokenomics-research-map.md)
 
 An expanded structural draft is also available at:
 
@@ -91,6 +93,7 @@ Current main paper structure:
 | Threat Model | Supporting draft | Added preliminary threat categories for cryptography, AI-native infrastructure, multi-VM execution, interoperability, incentives, and governance |
 | Evaluation Matrix | Supporting draft | Added evaluation criteria, evidence levels, comparative dimensions, and future data collection plan |
 | Chapter 4 Citation Map | Supporting draft | Maps Chapter 4 claims to EVM, CosmWasm, Solana/SVM, interoperability, security, and validation sources |
+| Chapter 5 Tokenomics Research Map | Supporting draft | Maps tokenomics research questions, hypotheses, risk categories, evidence needs, and post-mainnet validation metrics |
 | Post-Quantum Cryptography | Refined draft | Strengthened with standards-aware and migration-focused framing |
 | AI-Native Infrastructure | Refined draft | Wording adjusted toward auditability, transparency, and governance safeguards |
 | Multi-VM Architecture | Expanded draft | Reworked as a research-oriented technical analysis covering Triple-VM design, comparative tables, security implications, performance considerations, and evidence gaps |
